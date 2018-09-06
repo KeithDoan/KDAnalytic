@@ -1,0 +1,66 @@
+{
+    "algorithm": "Sequential", 
+    "algorithmType": "Classification", 
+    "author": "1007", 
+    "createdAt": 1536186300085, 
+    "features": [
+        {
+            "name": "CreditCardDebt", 
+            "sample": 0.632625, 
+            "type": "float"
+        }, 
+        {
+            "name": "EducationLevel", 
+            "sample": 2.0, 
+            "type": "float"
+        }, 
+        {
+            "name": "YearsWithCurrentEmployer", 
+            "sample": 11.0, 
+            "type": "float"
+        }, 
+        {
+            "name": "OtherDebt", 
+            "sample": 1.992375, 
+            "type": "float"
+        }, 
+        {
+            "name": "Age", 
+            "sample": 37.0, 
+            "type": "float"
+        }, 
+        {
+            "name": "DebtIncomeRatio", 
+            "sample": 3.5, 
+            "type": "float"
+        }, 
+        {
+            "name": "Income", 
+            "sample": 75.0, 
+            "type": "float"
+        }, 
+        {
+            "name": "YearsAtCurrentAddress", 
+            "sample": 4.0, 
+            "type": "float"
+        }
+    ], 
+    "id": 1536186300085, 
+    "isPublished": false, 
+    "labelColumns": [
+        {
+            "name": "PreviouslyDefaulted", 
+            "type": "int64"
+        }
+    ], 
+    "latestModelVersion": 4, 
+    "learningType": "Supervised", 
+    "name": "MortgageDefault_Model", 
+    "params": {}, 
+    "publishedBy": "", 
+    "publishedModelVersion": -1, 
+    "runtime": "Python27", 
+    "serialization": "hdf5", 
+    "source": "", 
+    "type": "keras-2.1"
+}

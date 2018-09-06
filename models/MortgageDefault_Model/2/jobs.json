@@ -1,0 +1,21 @@
+[
+  {
+    "args": [],
+    "author": "1007",
+    "dateCreated": 1536188426,
+    "displayName": "MortgageDefaultModel-1536188396838",
+    "env": [],
+    "fileName": "MortgageDefaultModel-model-evaluation-1536188396838.py",
+    "jobId": "d7b1faa4c0c27571",
+    "jobName": "mortgagedefaultmodel-1536188396838",
+    "mainScript": [
+      "/opt/conda/bin/python",
+      "scripts/MortgageDefaultModel-model-evaluation-1536188396838.py"
+    ],
+    "remoteOptions": [],
+    "runtimeEnvironment": "dsx-scripted-ml-python2",
+    "scheduleDescription": "On demand",
+    "targetHost": "",
+    "type": "Model evaluation"
+  }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "metrics": {
+            "accuracyScore": 0.7866666666666666, 
+            "areaUnderROC": 0.5370762711864406, 
+            "precisionScore": 0.6188444444444444, 
+            "recallScore": 0.7866666666666666, 
+            "threshold": {
+                "metric": "areaUnderROC", 
+                "mid_value": 0.7, 
+                "min_value": 0.3
+            }
+        }, 
+        "modelName": "MortgageDefault_Model", 
+        "modelVersion": "3", 
+        "performance": "fair", 
+        "startTime": 1536190610
+    }
+]
