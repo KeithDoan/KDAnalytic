@@ -20,7 +20,7 @@
                 },
                 "type": "templateDropZone",
                 "templateName": "dz1",
-                "relatedLayouts": "|model00000165adb017e8_00000003|"
+                "relatedLayouts": "|model00000165cc52c34b_00000003|"
               },
               {
                 "id": "page4",
@@ -33,7 +33,7 @@
                 },
                 "type": "templateDropZone",
                 "templateName": "dz3",
-                "relatedLayouts": "|model00000165adb06697_00000003|"
+                "relatedLayouts": "|model00000165cc54739f_00000003|"
               },
               {
                 "id": "page5",
@@ -46,7 +46,7 @@
                 },
                 "type": "templateDropZone",
                 "templateName": "dz4",
-                "relatedLayouts": "|model00000165adc1f8e4_00000003|"
+                "relatedLayouts": "|model00000165cc54dcb0_00000003|"
               },
               {
                 "id": "page6",
@@ -59,7 +59,7 @@
                 },
                 "type": "templateDropZone",
                 "templateName": "dz5",
-                "relatedLayouts": "|model00000165adb0d90f_00000003|"
+                "relatedLayouts": "|model00000165cc5a7635_00000003|"
               },
               {
                 "id": "page7",
@@ -72,73 +72,62 @@
                 },
                 "type": "templateDropZone",
                 "templateName": "dz2",
-                "relatedLayouts": "|model00000165adb61b8c_00000004|"
+                "relatedLayouts": ""
               },
               {
-                "id": "model00000165adb61b8c_00000004",
+                "id": "model00000165cc5e3114_00000004",
                 "style": {
-                  "top": "25%",
-                  "left": "0.10822510822510822%",
-                  "height": "74.80314960629921%",
-                  "width": "99.67532467532467%"
-                },
-                "type": "widget",
-                "relatedLayouts": "page7"
-              },
-              {
-                "id": "model00000165ada81e2e_00000005",
-                "style": {
-                  "left": "0.10822510822510822%",
-                  "top": "25.19685039370079%",
-                  "height": "74.80314960629921%",
-                  "width": "32.79220779220779%"
+                  "top": "25.49019607843137%",
+                  "left": "29.04564315352697%",
+                  "height": "74.81146304675717%",
+                  "width": "29.87551867219917%"
                 },
                 "type": "widget",
                 "relatedLayouts": ""
               },
               {
-                "id": "model00000165adc1f8e4_00000003",
+                "id": "model00000165cc5a7635_00000003",
                 "style": {
-                  "top": "0.15082956259426847%",
-                  "left": "50.04149377593361%",
-                  "height": "24.73604826546003%",
-                  "width": "24.896265560165975%"
+                  "top": "0.20161290322580644%",
+                  "left": "75%",
+                  "height": "24.798387096774192%",
+                  "width": "24.88938053097345%"
+                },
+                "type": "widget",
+                "relatedLayouts": "page6"
+              },
+              {
+                "id": "model00000165cc54dcb0_00000003",
+                "style": {
+                  "top": "0.20161290322580644%",
+                  "left": "50%",
+                  "height": "24.798387096774192%",
+                  "width": "24.88938053097345%"
                 },
                 "type": "widget",
                 "relatedLayouts": "page5"
               },
               {
-                "id": "model00000165adb017e8_00000003",
+                "id": "model00000165cc54739f_00000003",
                 "style": {
-                  "left": "0.08298755186721991%",
-                  "top": "0.15082956259426847%",
-                  "height": "24.73604826546003%",
-                  "width": "24.813278008298756%"
-                },
-                "type": "widget",
-                "relatedLayouts": "page3"
-              },
-              {
-                "id": "model00000165adb06697_00000003",
-                "style": {
-                  "left": "24.896265560165975%",
-                  "top": "0.15082956259426847%",
-                  "height": "24.8868778280543%",
-                  "width": "25.228215767634854%"
+                  "top": "0.20161290322580644%",
+                  "left": "25%",
+                  "height": "24.798387096774192%",
+                  "width": "24.88938053097345%"
                 },
                 "type": "widget",
                 "relatedLayouts": "page4"
               },
               {
-                "id": "model00000165adb0d90f_00000003",
+                "id": "model00000165cc52c34b_00000003",
                 "style": {
-                  "left": "74.73333333333333%",
-                  "top": "0.12121212121212122%",
-                  "height": "24.727272727272727%",
-                  "width": "25%"
+                  "top": "0.20161290322580644%",
+                  "left": "0.11061946902654868%",
+                  "height": "24.798387096774192%",
+                  "width": "24.778761061946902%"
                 },
                 "type": "widget",
-                "relatedLayouts": "page6"
+                "relatedLayouts": "page3"
               },
               {
                 "id": "model00000165adb2e8a8_00000000",
@@ -191,23 +180,23 @@
                 "relatedLayouts": ""
               },
               {
-                "id": "model00000165adb8cb30_00000004",
+                "id": "model00000165cc5bab9e_00000004",
                 "style": {
-                  "left": "32.57575757575758%",
-                  "top": "25.19685039370079%",
-                  "height": "74.80314960629921%",
-                  "width": "35.714285714285715%"
+                  "left": "0.08298755186721991%",
+                  "top": "25.339366515837103%",
+                  "height": "74.81146304675717%",
+                  "width": "28.96265560165975%"
                 },
                 "type": "widget",
                 "relatedLayouts": ""
               },
               {
-                "id": "model00000165adbcfdfe_00000004",
+                "id": "model00000165cc5fc90a_00000005",
                 "style": {
-                  "left": "68.29875518672199%",
-                  "top": "24.8868778280543%",
-                  "height": "75.1131221719457%",
-                  "width": "31.53526970954357%"
+                  "left": "58.83817427385892%",
+                  "top": "25.339366515837103%",
+                  "height": "74.6606334841629%",
+                  "width": "41.32780082987552%"
                 },
                 "type": "widget",
                 "relatedLayouts": ""
@@ -232,14 +221,13 @@
     {
       "id": "page1:1",
       "widgetIds": [
-        "model00000165ada81e2e_00000005",
-        "model00000165adb017e8_00000003",
-        "model00000165adb06697_00000003",
-        "model00000165adb0d90f_00000003",
-        "model00000165adb8cb30_00000004",
-        "model00000165adbcfdfe_00000004",
-        "model00000165adb61b8c_00000004",
-        "model00000165adc1f8e4_00000003"
+        "model00000165cc52c34b_00000003",
+        "model00000165cc54739f_00000003",
+        "model00000165cc54dcb0_00000003",
+        "model00000165cc5a7635_00000003",
+        "model00000165cc5bab9e_00000004",
+        "model00000165cc5e3114_00000004",
+        "model00000165cc5fc90a_00000005"
       ]
     }
   ],
@@ -262,7 +250,7 @@
                   "value": [
                     {
                       "name": "Authorization",
-                      "value": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImtlaXRoZCIsInN1YiI6ImtlaXRoZCIsImlzcyI6IktOT1hTU08iLCJhdWQiOiJEU1giLCJyb2xlIjoiQWRtaW4iLCJwZXJtaXNzaW9ucyI6WyJhZG1pbmlzdHJhdG9yIiwiYWNjZXNzX2NhdGFsb2ciLCJ2aXJ0dWFsaXplX3RyYW5zZm9ybSIsImNhbl9wcm92aXNpb24iLCJtYW5hZ2VfY2F0YWxvZyIsIm1hbmFnZV9wb2xpY2llcyIsImFjY2Vzc19wb2xpY2llcyJdLCJ1aWQiOiIxMDA3IiwiZGlzcGxheV9uYW1lIjoiS2VpdGggRG9hbiIsImlhdCI6MTUzNjIxNTUwMSwiZXhwIjoxNTM2MjU4NzAxfQ.R0sl4uIz67rJMyu2apf5_hJy75Pu8cIPBNEGddZCBhiYkcaCpDGUmYT08lJYz81Q1VEsGO6e9OfRv22sV08JlELEo9qaBwBrkQYefJ1PVPoTS0Ok9p9fpyLRekFl-bVkSTFFhWR_D_EjzSVbYCYvb8tqWlWNw-UHZnQs0jgbPWQjjZ4rz_fvJq2AOWYE7RTFlct1pmLLUkfrrQYAqYm221HmaSC7S8yz3MennZSfA-iL_82mR0MkwfQVGjYTuFiuAUNn9Fb_5CGRg1Q45sbLaeU5uNTt3aVgYempC-grJ9-wFh2jtPUqOwa0HOD_WkO0cNUKiVTOiu3WwRSquYOGTA"
+                      "value": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImtlaXRoZCIsInN1YiI6ImtlaXRoZCIsImlzcyI6IktOT1hTU08iLCJhdWQiOiJEU1giLCJyb2xlIjoiQWRtaW4iLCJwZXJtaXNzaW9ucyI6WyJhZG1pbmlzdHJhdG9yIiwiYWNjZXNzX2NhdGFsb2ciLCJ2aXJ0dWFsaXplX3RyYW5zZm9ybSIsImNhbl9wcm92aXNpb24iLCJtYW5hZ2VfY2F0YWxvZyIsIm1hbmFnZV9wb2xpY2llcyIsImFjY2Vzc19wb2xpY2llcyJdLCJ1aWQiOiIxMDE1IiwiZGlzcGxheV9uYW1lIjoiS2VpdGggRG9hbiIsImlhdCI6MTUzNjczMDAxNCwiZXhwIjoxNTM2NzczMjE0fQ.s6-S_STlxz2R0q3gpWX4BLemQvyWs2J5NeYHWA_GuhB3do3TSa3hFHnh1rOaWXbeLNRjWq1Qp-ZFzzHSc1uLWzqUUx8Taaw1kZlvF-2mxfEqLxUiAj_7NTenKFilOap4FTTgfbi-ziFime4YsQ4SmEwc7KTFl48lGClvrXwaXEixwsAKpMLoMWHacgVK--964dcSJ4APnz8PDDaHiWsMnz_FltJtHbJo1fMZ6naajvgasqwAIXZ6NFGzQzRpyK-62OVHRDHj5gl8YCQHnHfO-1zOLVUpaxQctq7yij-UlfuwGnULeHenD63Z0EcNfYz8oh6_dv9BrSMjxZHhTz5s_Q"
                     }
                   ]
                 }
@@ -432,7 +420,7 @@
         },
         "name": "mortgagee_shaped",
         "shaping": {
-          "shapingId": "shaping00000165adb71332_00000000",
+          "shapingId": "shaping00000165cc53c3e7_00000000",
           "embeddedModuleUpToDate": false,
           "moserJSON": {
             "version": "5.0",
@@ -473,7 +461,7 @@
                   {
                     "queryItem": {
                       "usage": "fact",
-                      "regularAggregate": "average",
+                      "regularAggregate": "total",
                       "identifier": "SalePrice",
                       "property": [
                         {
@@ -541,7 +529,7 @@
                   {
                     "queryItem": {
                       "usage": "fact",
-                      "regularAggregate": "average",
+                      "regularAggregate": "total",
                       "identifier": "DebtIncomeRatio",
                       "property": [
                         {
@@ -615,193 +603,314 @@
             "label": "newModel"
           }
         }
+      },
+      {
+        "id": "model00000165cc4fcd38_00000002",
+        "assetId": "assetId00000165cc4fcd38_00000000",
+        "clientId": "mortgagee_shaped",
+        "module": {
+          "identifier": "mortgagee_shaped",
+          "label": "mortgagee_shaped",
+          "source": {
+            "id": "mortgagee_shaped",
+            "srcUrl": {
+              "property": [
+                {
+                  "name": "headers",
+                  "value": [
+                    {
+                      "name": "Authorization",
+                      "value": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImtlaXRoZCIsInN1YiI6ImtlaXRoZCIsImlzcyI6IktOT1hTU08iLCJhdWQiOiJEU1giLCJyb2xlIjoiQWRtaW4iLCJwZXJtaXNzaW9ucyI6WyJhZG1pbmlzdHJhdG9yIiwiYWNjZXNzX2NhdGFsb2ciLCJ2aXJ0dWFsaXplX3RyYW5zZm9ybSIsImNhbl9wcm92aXNpb24iLCJtYW5hZ2VfY2F0YWxvZyIsIm1hbmFnZV9wb2xpY2llcyIsImFjY2Vzc19wb2xpY2llcyJdLCJ1aWQiOiIxMDE1IiwiZGlzcGxheV9uYW1lIjoiS2VpdGggRG9hbiIsImlhdCI6MTUzNjczMDAxNCwiZXhwIjoxNTM2NzczMjE0fQ.s6-S_STlxz2R0q3gpWX4BLemQvyWs2J5NeYHWA_GuhB3do3TSa3hFHnh1rOaWXbeLNRjWq1Qp-ZFzzHSc1uLWzqUUx8Taaw1kZlvF-2mxfEqLxUiAj_7NTenKFilOap4FTTgfbi-ziFime4YsQ4SmEwc7KTFl48lGClvrXwaXEixwsAKpMLoMWHacgVK--964dcSJ4APnz8PDDaHiWsMnz_FltJtHbJo1fMZ6naajvgasqwAIXZ6NFGzQzRpyK-62OVHRDHj5gl8YCQHnHfO-1zOLVUpaxQctq7yij-UlfuwGnULeHenD63Z0EcNfYz8oh6_dv9BrSMjxZHhTz5s_Q"
+                    }
+                  ]
+                }
+              ],
+              "sourceUrl": "http://dsx-core-svc:3000/v3/project/KDAnalytic/asset/mortgagee_shaped.csv/download"
+            }
+          },
+          "table": {
+            "column": [
+              {
+                "datatype": "FLOAT",
+                "description": "ID",
+                "label": "ID",
+                "name": "ID",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "PreviouslyDefaulted",
+                "label": "PreviouslyDefaulted",
+                "name": "PreviouslyDefaulted",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "CHAR",
+                "description": "State",
+                "label": "State",
+                "name": "State",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "CHAR",
+                "description": "CityArea",
+                "label": "CityArea",
+                "name": "CityArea",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "SalePrice",
+                "label": "SalePrice",
+                "name": "SalePrice",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Location",
+                "label": "Location",
+                "name": "Location",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Age",
+                "label": "Age",
+                "name": "Age",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "EducationLevel",
+                "label": "EducationLevel",
+                "name": "EducationLevel",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "YearsWithCurrentEmployer",
+                "label": "YearsWithCurrentEmployer",
+                "name": "YearsWithCurrentEmployer",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "YearsAtCurrentAddress",
+                "label": "YearsAtCurrentAddress",
+                "name": "YearsAtCurrentAddress",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "Income",
+                "label": "Income",
+                "name": "Income",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "DebtIncomeRatio",
+                "label": "DebtIncomeRatio",
+                "name": "DebtIncomeRatio",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "CreditCardDebt",
+                "label": "CreditCardDebt",
+                "name": "CreditCardDebt",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "OtherDebt",
+                "label": "OtherDebt",
+                "name": "OtherDebt",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "CHAR",
+                "description": "Residence",
+                "label": "Residence",
+                "name": "Residence",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "NumberOfCards",
+                "label": "NumberOfCards",
+                "name": "NumberOfCards",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              },
+              {
+                "datatype": "FLOAT",
+                "description": "LoanAmount",
+                "label": "LoanAmount",
+                "name": "LoanAmount",
+                "nullable": "true",
+                "regularAggregate": "none",
+                "usage": "attribute"
+              }
+            ],
+            "name": "mortgagee_shaped"
+          },
+          "xsd": "https://ibm.com/daas/module/1.0/module.xsd"
+        },
+        "name": "mortgagee_shaped",
+        "shaping": {
+          "shapingId": "shaping00000165cc5a5942_00000000",
+          "embeddedModuleUpToDate": false,
+          "moserJSON": {
+            "version": "5.0",
+            "container": "C",
+            "useSpec": [
+              {
+                "identifier": "ES",
+                "type": "url",
+                "storeID": "baseModule",
+                "imports": "*"
+              }
+            ],
+            "expressionLocale": "en-us",
+            "querySubject": [
+              {
+                "ref": [
+                  "ES.mortgagee_shaped"
+                ],
+                "instanceType": "reference",
+                "item": [
+                  {
+                    "queryItem": {
+                      "usage": "fact",
+                      "regularAggregate": "total",
+                      "identifier": "SalePrice",
+                      "property": [
+                        {
+                          "name": "propertySetByUser_165",
+                          "value": "true"
+                        },
+                        {
+                          "name": "propertySetByUser_170",
+                          "value": "true"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "queryItem": {
+                      "usage": "fact",
+                      "regularAggregate": "total",
+                      "identifier": "Income",
+                      "property": [
+                        {
+                          "name": "propertySetByUser_165",
+                          "value": "true"
+                        },
+                        {
+                          "name": "propertySetByUser_170",
+                          "value": "true"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "queryItem": {
+                      "usage": "fact",
+                      "regularAggregate": "average",
+                      "identifier": "DebtIncomeRatio",
+                      "property": [
+                        {
+                          "name": "propertySetByUser_165",
+                          "value": "true"
+                        },
+                        {
+                          "name": "propertySetByUser_170",
+                          "value": "true"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "queryItem": {
+                      "usage": "fact",
+                      "regularAggregate": "total",
+                      "identifier": "CreditCardDebt",
+                      "property": [
+                        {
+                          "name": "propertySetByUser_165",
+                          "value": "true"
+                        },
+                        {
+                          "name": "propertySetByUser_170",
+                          "value": "true"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "queryItem": {
+                      "usage": "fact",
+                      "regularAggregate": "total",
+                      "identifier": "LoanAmount",
+                      "property": [
+                        {
+                          "name": "propertySetByUser_165",
+                          "value": "true"
+                        },
+                        {
+                          "name": "propertySetByUser_170",
+                          "value": "true"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "identifier": "mortgagee_shaped"
+              }
+            ],
+            "dataRetrievalMode": "liveConnection",
+            "identifier": "newModel",
+            "label": "newModel"
+          }
+        }
       }
     ]
   },
   "pageContext": [],
   "drillThrough": [],
   "widgets": {
-    "model00000165ada81e2e_00000005": {
-      "id": "model00000165ada81e2e_00000005",
-      "data": {
-        "dataViews": [
-          {
-            "modelRef": "model00000165ada6ace2_00000001",
-            "dataItems": [
-              {
-                "id": "model00000165ada81e2e_00000000",
-                "itemId": "mortgagee_shaped.PreviouslyDefaulted",
-                "itemLabel": "PreviouslyDefaulted"
-              },
-              {
-                "id": "model00000165ada81e2e_00000001",
-                "itemId": "mortgagee_shaped.State_",
-                "itemLabel": "State"
-              },
-              {
-                "id": "model00000165ada81e2e_00000002",
-                "itemId": "mortgagee_shaped.LoanAmount",
-                "itemLabel": "LoanAmount"
-              }
-            ],
-            "id": "model00000165ada81e2e_00000003"
-          }
-        ]
-      },
-      "visTypeLocked": true,
-      "slotmapping": {
-        "slots": [
-          {
-            "name": "categories",
-            "dataItems": [
-              "model00000165ada81e2e_00000000"
-            ],
-            "caption": "Rows",
-            "id": "categories",
-            "layerId": "data"
-          },
-          {
-            "name": "series",
-            "dataItems": [
-              "model00000165ada81e2e_00000001"
-            ],
-            "caption": "Columns",
-            "id": "series",
-            "layerId": "data"
-          },
-          {
-            "name": "color",
-            "dataItems": [
-              "model00000165ada81e2e_00000002"
-            ],
-            "caption": "Heat",
-            "id": "color",
-            "layerId": "data"
-          }
-        ]
-      },
-      "type": "live",
-      "name": "Default by State and Loan Amount",
-      "borderColor": "color4",
-      "visId": "com.ibm.vis.rave2heat",
-      "showTitle": true
-    },
-    "model00000165adb017e8_00000003": {
-      "id": "model00000165adb017e8_00000003",
-      "data": {
-        "dataViews": [
-          {
-            "modelRef": "model00000165ada6ace2_00000001",
-            "dataItems": [
-              {
-                "id": "model00000165adb017e8_00000000",
-                "itemId": "mortgagee_shaped.Income",
-                "itemLabel": "Income"
-              }
-            ],
-            "id": "model00000165adb017e8_00000001"
-          }
-        ]
-      },
-      "slotmapping": {
-        "slots": [
-          {
-            "name": "values",
-            "dataItems": [
-              "model00000165adb017e8_00000000"
-            ],
-            "dataItemSettings": [],
-            "caption": "Value",
-            "id": "values",
-            "layerId": "data"
-          }
-        ]
-      },
-      "type": "live",
-      "name": "",
-      "borderColor": "color4",
-      "visId": "summary"
-    },
-    "model00000165adb06697_00000003": {
-      "id": "model00000165adb06697_00000003",
-      "data": {
-        "dataViews": [
-          {
-            "modelRef": "model00000165ada6ace2_00000001",
-            "dataItems": [
-              {
-                "id": "model00000165adb06697_00000000",
-                "itemId": "mortgagee_shaped.DebtIncomeRatio",
-                "itemLabel": "DebtIncomeRatio"
-              }
-            ],
-            "id": "model00000165adb06697_00000001"
-          }
-        ]
-      },
-      "slotmapping": {
-        "slots": [
-          {
-            "name": "values",
-            "dataItems": [
-              "model00000165adb06697_00000000"
-            ],
-            "dataItemSettings": [],
-            "caption": "Value",
-            "id": "values",
-            "layerId": "data"
-          }
-        ]
-      },
-      "type": "live",
-      "name": "",
-      "borderColor": "color4",
-      "visId": "summary"
-    },
-    "model00000165adb0d90f_00000003": {
-      "id": "model00000165adb0d90f_00000003",
-      "data": {
-        "dataViews": [
-          {
-            "modelRef": "model00000165ada6ace2_00000001",
-            "dataItems": [
-              {
-                "id": "model00000165adb0d90f_00000000",
-                "itemId": "mortgagee_shaped.LoanAmount",
-                "itemLabel": "LoanAmount",
-                "format": {
-                  "id": "abbrev",
-                  "localizedString": "Abbreviate",
-                  "formatSpec": {
-                    "decimalFormatLength": "short",
-                    "selectedFormat": "abbrev"
-                  }
-                }
-              }
-            ],
-            "id": "model00000165adb0d90f_00000001"
-          }
-        ]
-      },
-      "slotmapping": {
-        "slots": [
-          {
-            "name": "values",
-            "dataItems": [
-              "model00000165adb0d90f_00000000"
-            ],
-            "dataItemSettings": [],
-            "caption": "Value",
-            "id": "values",
-            "layerId": "data"
-          }
-        ]
-      },
-      "type": "live",
-      "name": "",
-      "borderColor": "color4",
-      "visId": "summary"
-    },
     "model00000165adb2e8a8_00000000": {
       "id": "model00000165adb2e8a8_00000000",
       "type": "shape",
@@ -838,171 +947,28 @@
       "borderColor": "transparent",
       "visTypeLocked": true
     },
-    "model00000165adb61b8c_00000004": {
-      "id": "model00000165adb61b8c_00000004",
+    "model00000165cc52c34b_00000003": {
+      "id": "model00000165cc52c34b_00000003",
       "data": {
         "dataViews": [
           {
-            "modelRef": "model00000165ada6ace2_00000001",
+            "modelRef": "model00000165cc4fcd38_00000002",
             "dataItems": [
               {
-                "id": "model00000165adb61b8c_00000000",
-                "itemId": "mortgagee_shaped.State_",
-                "itemLabel": "State"
-              },
-              {
-                "id": "model00000165adb61b8c_00000001",
-                "itemId": "mortgagee_shaped.SalePrice",
-                "itemLabel": "SalePrice"
+                "id": "model00000165cc52c34b_00000000",
+                "itemId": "mortgagee_shaped.LoanAmount",
+                "itemLabel": "LoanAmount",
+                "format": {
+                  "id": "abbrev",
+                  "localizedString": "Abbreviate",
+                  "formatSpec": {
+                    "decimalFormatLength": "short",
+                    "selectedFormat": "abbrev"
+                  }
+                }
               }
             ],
-            "id": "model00000165adb61b8c_00000002"
-          }
-        ]
-      },
-      "slotmapping": {
-        "slots": [
-          {
-            "name": "x",
-            "dataItems": [
-              "model00000165adb61b8c_00000000"
-            ],
-            "caption": "x-axis",
-            "id": "x",
-            "layerId": "data"
-          },
-          {
-            "name": "y",
-            "dataItems": [
-              "model00000165adb61b8c_00000001"
-            ],
-            "caption": "y-axis",
-            "id": "y",
-            "layerId": "data"
-          }
-        ]
-      },
-      "type": "live",
-      "name": "",
-      "visId": "com.ibm.vis.ravescatter"
-    },
-    "model00000165adb8cb30_00000004": {
-      "id": "model00000165adb8cb30_00000004",
-      "data": {
-        "dataViews": [
-          {
-            "modelRef": "model00000165ada6ace2_00000001",
-            "dataItems": [
-              {
-                "id": "model00000165adb8cb30_00000000",
-                "itemId": "mortgagee_shaped.State_",
-                "itemLabel": "State"
-              },
-              {
-                "id": "model00000165adb8cb30_00000001",
-                "itemId": "mortgagee_shaped.SalePrice",
-                "itemLabel": "SalePrice"
-              }
-            ],
-            "id": "model00000165adb8cb30_00000002"
-          }
-        ]
-      },
-      "visTypeLocked": true,
-      "slotmapping": {
-        "slots": [
-          {
-            "name": "categories",
-            "dataItems": [
-              "model00000165adb8cb30_00000000"
-            ],
-            "dataItemSettings": [],
-            "caption": "Segments",
-            "id": "categories",
-            "layerId": "data"
-          },
-          {
-            "name": "values",
-            "dataItems": [
-              "model00000165adb8cb30_00000001"
-            ],
-            "caption": "Size",
-            "id": "values",
-            "layerId": "data"
-          }
-        ]
-      },
-      "type": "live",
-      "name": "Property Price by State",
-      "borderColor": "color4",
-      "visId": "com.ibm.vis.rave2bundlepie",
-      "showTitle": true
-    },
-    "model00000165adbcfdfe_00000004": {
-      "id": "model00000165adbcfdfe_00000004",
-      "data": {
-        "dataViews": [
-          {
-            "modelRef": "model00000165ada6ace2_00000001",
-            "dataItems": [
-              {
-                "id": "model00000165adbcfdfe_00000000",
-                "itemId": "mortgagee_shaped.State_",
-                "itemLabel": "State"
-              },
-              {
-                "id": "model00000165adbcfdfe_00000001",
-                "itemId": "mortgagee_shaped.DebtIncomeRatio",
-                "itemLabel": "DebtIncomeRatio"
-              }
-            ],
-            "id": "model00000165adbcfdfe_00000002"
-          }
-        ]
-      },
-      "visTypeLocked": true,
-      "slotmapping": {
-        "slots": [
-          {
-            "name": "categories",
-            "dataItems": [
-              "model00000165adbcfdfe_00000000"
-            ],
-            "caption": "Bars",
-            "id": "categories",
-            "layerId": "data"
-          },
-          {
-            "name": "values",
-            "dataItems": [
-              "model00000165adbcfdfe_00000001"
-            ],
-            "caption": "Length",
-            "id": "values",
-            "layerId": "data"
-          }
-        ]
-      },
-      "type": "live",
-      "name": "Debt Income Ratio by State",
-      "borderColor": "color4",
-      "visId": "com.ibm.vis.rave2bundlestackedbar",
-      "showTitle": true
-    },
-    "model00000165adc1f8e4_00000003": {
-      "id": "model00000165adc1f8e4_00000003",
-      "data": {
-        "dataViews": [
-          {
-            "modelRef": "model00000165ada6ace2_00000001",
-            "dataItems": [
-              {
-                "id": "model00000165adc1f8e4_00000000",
-                "itemId": "mortgagee_shaped.CreditCardDebt",
-                "itemLabel": "CreditCardDebt"
-              }
-            ],
-            "id": "model00000165adc1f8e4_00000001"
+            "id": "model00000165cc52c34b_00000001"
           }
         ]
       },
@@ -1011,7 +977,7 @@
           {
             "name": "values",
             "dataItems": [
-              "model00000165adc1f8e4_00000000"
+              "model00000165cc52c34b_00000000"
             ],
             "dataItemSettings": [],
             "caption": "Value",
@@ -1022,8 +988,292 @@
       },
       "type": "live",
       "name": "",
-      "borderColor": "color4",
       "visId": "summary"
+    },
+    "model00000165cc54739f_00000003": {
+      "id": "model00000165cc54739f_00000003",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model00000165cc4fcd38_00000002",
+            "dataItems": [
+              {
+                "id": "model00000165cc54739f_00000000",
+                "itemId": "mortgagee_shaped.DebtIncomeRatio",
+                "itemLabel": "DebtIncomeRatio"
+              }
+            ],
+            "id": "model00000165cc54739f_00000001"
+          }
+        ]
+      },
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "values",
+            "dataItems": [
+              "model00000165cc54739f_00000000"
+            ],
+            "dataItemSettings": [],
+            "caption": "Value",
+            "id": "values",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "name": "",
+      "visId": "summary"
+    },
+    "model00000165cc54dcb0_00000003": {
+      "id": "model00000165cc54dcb0_00000003",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model00000165cc4fcd38_00000002",
+            "dataItems": [
+              {
+                "id": "model00000165cc54dcb0_00000000",
+                "itemId": "mortgagee_shaped.SalePrice",
+                "itemLabel": "SalePrice",
+                "format": {
+                  "id": "abbrev",
+                  "localizedString": "Abbreviate",
+                  "formatSpec": {
+                    "decimalFormatLength": "short",
+                    "selectedFormat": "abbrev"
+                  }
+                }
+              }
+            ],
+            "id": "model00000165cc54dcb0_00000001"
+          }
+        ]
+      },
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "values",
+            "dataItems": [
+              "model00000165cc54dcb0_00000000"
+            ],
+            "dataItemSettings": [],
+            "caption": "Value",
+            "id": "values",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "name": "",
+      "visId": "summary"
+    },
+    "model00000165cc5a7635_00000003": {
+      "id": "model00000165cc5a7635_00000003",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model00000165cc4fcd38_00000002",
+            "dataItems": [
+              {
+                "id": "model00000165cc5a7635_00000000",
+                "itemId": "mortgagee_shaped.Income",
+                "itemLabel": "Income",
+                "format": {
+                  "id": "abbrev",
+                  "localizedString": "Abbreviate",
+                  "formatSpec": {
+                    "decimalFormatLength": "short",
+                    "selectedFormat": "abbrev"
+                  }
+                }
+              }
+            ],
+            "id": "model00000165cc5a7635_00000001"
+          }
+        ]
+      },
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "values",
+            "dataItems": [
+              "model00000165cc5a7635_00000000"
+            ],
+            "dataItemSettings": [],
+            "caption": "Value",
+            "id": "values",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "name": "",
+      "visId": "summary"
+    },
+    "model00000165cc5bab9e_00000004": {
+      "id": "model00000165cc5bab9e_00000004",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model00000165cc4fcd38_00000002",
+            "dataItems": [
+              {
+                "id": "model00000165cc5bab9e_00000000",
+                "itemId": "mortgagee_shaped.State_",
+                "itemLabel": "State"
+              },
+              {
+                "id": "model00000165cc5bab9e_00000001",
+                "itemId": "mortgagee_shaped.SalePrice",
+                "itemLabel": "SalePrice"
+              }
+            ],
+            "id": "model00000165cc5bab9e_00000002"
+          }
+        ]
+      },
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "categories",
+            "dataItems": [
+              "model00000165cc5bab9e_00000000"
+            ],
+            "caption": "Bars",
+            "id": "categories",
+            "layerId": "data"
+          },
+          {
+            "name": "values",
+            "dataItems": [
+              "model00000165cc5bab9e_00000001"
+            ],
+            "caption": "Length",
+            "id": "values",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "name": "Total Sales Price By State",
+      "borderColor": "color4",
+      "visId": "com.ibm.vis.rave2bundlecolumn",
+      "showTitle": true
+    },
+    "model00000165cc5e3114_00000004": {
+      "id": "model00000165cc5e3114_00000004",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model00000165cc4fcd38_00000002",
+            "dataItems": [
+              {
+                "id": "model00000165cc5e3114_00000000",
+                "itemId": "mortgagee_shaped.State_",
+                "itemLabel": "State"
+              },
+              {
+                "id": "model00000165cc5e3114_00000001",
+                "itemId": "mortgagee_shaped.DebtIncomeRatio",
+                "itemLabel": "DebtIncomeRatio"
+              }
+            ],
+            "id": "model00000165cc5e3114_00000002"
+          }
+        ]
+      },
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "categories",
+            "dataItems": [
+              "model00000165cc5e3114_00000000"
+            ],
+            "caption": "Bars",
+            "id": "categories",
+            "layerId": "data"
+          },
+          {
+            "name": "values",
+            "dataItems": [
+              "model00000165cc5e3114_00000001"
+            ],
+            "caption": "Length",
+            "id": "values",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "name": "Debt Income Ratio By State",
+      "borderColor": "color4",
+      "visId": "com.ibm.vis.rave2bundlecolumn",
+      "showTitle": true
+    },
+    "model00000165cc5fc90a_00000005": {
+      "id": "model00000165cc5fc90a_00000005",
+      "data": {
+        "dataViews": [
+          {
+            "modelRef": "model00000165cc4fcd38_00000002",
+            "dataItems": [
+              {
+                "id": "model00000165cc5fc90a_00000000",
+                "itemId": "mortgagee_shaped.PreviouslyDefaulted",
+                "itemLabel": "PreviouslyDefaulted"
+              },
+              {
+                "id": "model00000165cc5fc90a_00000001",
+                "itemId": "mortgagee_shaped.State_",
+                "itemLabel": "State"
+              },
+              {
+                "id": "model00000165cc5fc90a_00000002",
+                "itemId": "mortgagee_shaped.LoanAmount",
+                "itemLabel": "LoanAmount"
+              }
+            ],
+            "id": "model00000165cc5fc90a_00000003"
+          }
+        ]
+      },
+      "slotmapping": {
+        "slots": [
+          {
+            "name": "categories",
+            "dataItems": [
+              "model00000165cc5fc90a_00000000"
+            ],
+            "caption": "x-axis",
+            "id": "categories",
+            "layerId": "data"
+          },
+          {
+            "name": "series",
+            "dataItems": [
+              "model00000165cc5fc90a_00000001"
+            ],
+            "caption": "Color",
+            "id": "series",
+            "layerId": "data"
+          },
+          {
+            "name": "values",
+            "dataItems": [
+              "model00000165cc5fc90a_00000002"
+            ],
+            "caption": "y-axis",
+            "id": "values",
+            "layerId": "data"
+          }
+        ]
+      },
+      "type": "live",
+      "name": "Loan Amount Default",
+      "borderColor": "color4",
+      "visId": "com.ibm.vis.rave2line",
+      "showTitle": true
     }
   }
 }
